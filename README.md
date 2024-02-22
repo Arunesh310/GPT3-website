@@ -1,6 +1,6 @@
 Project Overview
 
-Welcome to the code repository for our fully responsive website built using React.js. This project serves as a showcase for creating modern, responsive web applications with a professional touch. It encompasses a range of topics, including React functional components, file and folder structure, essential CSS properties, the BEM model, animations, gradients, and responsive design techniques.
+Welcome to the code repository for my fully responsive website built using React.js. This project serves as a showcase for creating modern, responsive web applications with a professional touch. It encompasses a range of topics, including React functional components, file and folder structure, essential CSS properties, the BEM model, animations, gradients, and responsive design techniques.
 
 Features
 • React Functional Components: Leverage the power of React to create modular and reusable components, ensuring maintainability and scalability.
@@ -56,4 +56,4 @@ Contributors
 Arunesh Kumar
 Feel free to contribute to the project by submitting issues or pull requests.
 
-Thank you for exploring our responsive React.js website! If you have any questions or suggestions, please don't hesitate to reach out.
+Thank you for exploring my responsive React.js website! If you have any questions or suggestions, please don't hesitate to reach out.
