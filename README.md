@@ -1,4 +1,7 @@
-Project Overview
+#Visit the site here : https://gpt3ai-functional.netlify.app/
+
+# Project Overview
+
 
 Welcome to the code repository for my fully responsive website built using React.js. This project serves as a showcase for creating modern, responsive web applications with a professional touch. It encompasses a range of topics, including React functional components, file and folder structure, essential CSS properties, the BEM model, animations, gradients, and responsive design techniques.
 
